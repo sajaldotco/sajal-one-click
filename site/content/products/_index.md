@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
-type: products
+title: My Skills
+type: skills
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: My skills briefing
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
