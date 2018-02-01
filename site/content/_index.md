@@ -1,6 +1,6 @@
 ---
 title: "Hi I'm Sajal Mondal"
-subtitle: Mechanical Engineer From Bangladesh
+subtitle: Network Engineer From Bangladesh
 image: https://sajal.info/img/sajal-selfie.jpg
 blurb:
     heading: Who am I?
