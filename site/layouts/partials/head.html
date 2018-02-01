@@ -1,6 +1,8 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
 
-	<title>{{ .Title }} | Kaldi</title>
+	<title>{{ .Title }} | Sajal Mondal</title>
 	<link rel="stylesheet" href="/css/main.css" />
 
 	<meta charset="utf-8">
@@ -16,12 +18,21 @@
 	<link rel="manifest" href="/manifest.json">
 	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
 	<meta name="theme-color" content="#fff">
-
+        <link rel="canonical" href="{{ .Permalink }}">
 	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="Kaldi | Great coffee with a conscience">
+	<meta property="og:type" content="Website">
+	<meta property="og:title" content="Sajal Mondal | All about of Sajal Mondal">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/og-image.jpg">
-
+        <meta property="og:description" content="{{- if .IsPage -}}
+  {{- if or .Type "publication" .Type "talk" -}}
+    {{- with .Params.abstract -}}{{- . -}}{{- end -}}
+  {{- else -}}
+    {{- .Summary -}}
+  {{- end -}}
+  {{- else -}}
+  {{- with .Site.Params.role -}}{{- . -}}{{- end -}}
+  {{- end -}}">
+{{- with .Params.header.image }}
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
