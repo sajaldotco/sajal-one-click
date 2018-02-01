@@ -1,13 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Hi I'm Sajal Mondal"
+subtitle: Mechanical Engineer From Bangladesh
+image: https://sajal.info/img/sajal-selfie.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Who am I?
+    text: "I’m Sajal Mondal from Dhaka, Bangladesh. I’m Founder & CEO of Pineapple IT which is most leading Web Hosting Company. I’m also BBS engineer of Gobroadband WiMAX, which is brought to you by ADN Telecom & Powered By Grameenphone."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "what can i do?"
+    text: "I am very keen on experimenting new hardware, software like operating system caring them on my own. I suppose that technology research helps me become more patient and responsible. Besides, I also prefer fiction movie show. My major expertise telecommunication equipment are BTS, BSC, MSC, M2000, WASN gateway, AAA Server, Router & Firewall. I have also elite skill in Domain Management, Web Hosting (cPanel/WHM), Web development."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
